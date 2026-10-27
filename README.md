@@ -65,4 +65,4 @@ Pillow
 
 ## License
 
-Add your preferred license here (e.g. MIT).
+This project is licensed under the MIT License.
