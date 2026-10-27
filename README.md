@@ -4,7 +4,7 @@ A binary skin-lesion classifier that distinguishes **benign** from **malignant**
 
 ## Overview
 
-- **Dataset:** [Melanoma Cancer Image Dataset](https://www.kaggle.com/) (Kaggle) — ~10,605 images total (8,484 train / 2,121 validation / 1,000 test)
+- **Dataset:** [Melanoma Skin Cancer Dataset of 10000 Images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) (Kaggle) — ~10,605 images total (8,484 train / 2,121 validation / 1,000 test)
 - **Classes:** `benign`, `malignant`
 - **Model:** ResNet34, pretrained on ImageNet, fine-tuned via fastai's `vision_learner`
 - **Framework:** fastai / PyTorch
